@@ -20,7 +20,7 @@ const Todos = () => {
       </div>
 
       {/* SEARCH BAR DAN FILTER */}
-      <div className="flex flex-col mb-10 mx-5">
+      <div className="flex flex-col mb-10 mx-5 ">
         <SearchBar />
         <Filter />
       </div>

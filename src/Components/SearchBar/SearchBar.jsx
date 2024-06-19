@@ -13,7 +13,7 @@ const SearchBar = () => {
   };
 
   return (
-    <div className="mb-2">
+    <div className="mb-2 ">
       <form action="" onSubmit={handleSubmit}>
         <div className="flex justify-between gap-2">
           <div className="w-full">
